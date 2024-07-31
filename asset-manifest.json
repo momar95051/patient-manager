@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/patient-manager/static/css/main.f855e6bc.css",
+    "main.js": "/patient-manager/static/js/main.9a3253ff.js",
+    "static/js/453.b91fae81.chunk.js": "/patient-manager/static/js/453.b91fae81.chunk.js",
+    "static/media/logo.svg": "/patient-manager/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/patient-manager/index.html",
+    "main.f855e6bc.css.map": "/patient-manager/static/css/main.f855e6bc.css.map",
+    "main.9a3253ff.js.map": "/patient-manager/static/js/main.9a3253ff.js.map",
+    "453.b91fae81.chunk.js.map": "/patient-manager/static/js/453.b91fae81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9a3253ff.js"
+  ]
+}
